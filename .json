@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "Gaurav Kumar",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/83162630?s=400&u=53bf88285d31ff916613b8d4cf490729eb19d165&v=4",
+		"email": "gauravkulhari818@gmail.com",
+		"phone": "9461887211",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "Hey There! I am Gaurav Kumar. My interst deeply revolves around Exploring and Learning Web-Development, Data-Structures. I like to help people learn technology, and work with communities.",
+		"location": {
+			"address": "Vpo-Singnor, Tehsil-Udaipurwati, Dist-Jhunjhunu",
+			"postalCode": "333032",
+			"city": "Jhunjhunu",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Gaurav kumar",
+				"url": "https://mobile.twitter.com/Gauravk73545071/"
+			},
+			{
+				"network": "Github",
+				"username": "gauravkumar14598",
+				"url": "https://github.com/gauravkumar14598/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Gaurav Kumar",
+				"url": "https://www.linkedin.com/in/gaurav-kumar-62b415200/"
+			},
+			{
+				"network": "Instagram",
+				"username": "its_gaurav_kumar",
+				"url": "https://www.instagram.com/its_gaurav_kulhari/"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08",
+		"endDate": "2024",
+		"gpa": "8.0 in 1st Semester",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "Node", "Java", "C", "Express"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Basketball", "Badminton", "Carrom"]
+	}],
+	"references": []
+}
